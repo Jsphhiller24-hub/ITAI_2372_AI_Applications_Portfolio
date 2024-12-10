@@ -40,7 +40,7 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 ---
 
 ### **Resources:**  
-[Link to the folder](Resources)  
+[Resources]()  
 
 A curated list of resources, including:  
 - 2057 Michio Kaku - The Body (Ep. 1) link  
