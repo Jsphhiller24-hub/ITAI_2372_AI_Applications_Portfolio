@@ -24,7 +24,7 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 ---
 
 ### **Case Study and Paper Assignments:**  
-[Link to the folder](Case_Studies)  
+[[Link to the folder](Case_Studies) ](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/case_study_and_papers) 
 
 - **AI in Fraud Detection Case Study:** Strategies for fraud detection using AI tools.  
 - Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.  
