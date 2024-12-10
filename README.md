@@ -14,7 +14,7 @@ The practice lab reflection journals detail my preparation for the **Azure AI 90
 
 Gained key insights and reflections from a comprehensive practice lab series on **Azure AI Services**, designed to prepare professionals for the **Azure AI 900 Certification** exam:  
 
-- [Lab 1: Exploring Azure AI Services](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/blob/main/reflection_journals/Lab1_ExploringAzureAI.pdf) 
+1. **Lab1:** Exploring Azure AI Services 
 2. **Lab 2:** Analyzing Images with Vision Studio  
 3. **Lab 3:** Analyzing Text with Language Studio  
 4. **Lab 4:** Extracting Form Data in Document Intelligence  
