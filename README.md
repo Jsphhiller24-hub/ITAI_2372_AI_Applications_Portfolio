@@ -1,27 +1,43 @@
 # ITAI 2372 AI Applications Portfolio
 
 ## Overview
-This repository showcases my coursework and projects completed as part of the **ITAI 2372 AI Applications** course. It includes assignments, notes, and resources, highlighting key learnings and applications in AI.
+This repository showcases my coursework from the **ITAI 2372 AI Applications** course, including labs, projects, and case studies that prepared me for the **Azure AI 900 Certification** and demonstrate my ability to apply AI tools to real-world scenarios.
 
 ## Contents
-- **Projects:** [Link to the folder](Projects)  
-  Contains course projects and assignments demonstrating AI concepts and tools.
-  
-- **Notes:** [Link to the folder](Notes)  
-  Key takeaways and notes from lectures and assignments.
+- **Azure AI Labs:** [Link to the folder](Azure_AI_Labs)  
+  A 5-part lab series exploring Azure AI services and tools:
+  1. **Lab 1:** Navigating Content Safety Studio and Azure AI services.
+  2. **Lab 2:** Analyzing images with Vision Studio.
+  3. **Lab 3:** Analyzing text with Language Studio.
+  4. **Lab 4:** Extracting data using Document Intelligence.
+  5. **Lab 5:** Exploring AI Copilot and its applications.
+
+- **Case Studies:** [Link to the folder](Case_Studies)  
+  - **AI Fraud Detection Case Study:** Developed strategies for fraud detection using AI tools.
+  - **Analysis of *2057 Michio Kaku - The Body (Ep. 1):** Explored AI's impact on healthcare advancements.
+
+- **NASA Space Mission AI Project:** [Link to the folder](NASA_Project)  
+  **Efficient Power Distribution through AI and Smart Grid Optimization**  
+  - Designed an AI-powered solution for smart grid optimization and efficient energy distribution for NASA space missions.
 
 - **Resources:** [Link to the folder](Resources)  
-  Links and references to materials used during the course.
+  A curated list of resources, including:
+  - Azure AI documentation
+  - Python libraries and tools
+  - Relevant research papers and articles
 
 ## Key Highlights
-- Explored tools like Azure AI, Python, and machine learning frameworks.
-- Developed skills in content moderation, data analysis, and AI application development.
+- **Tools and Concepts Mastered:**
+  - Azure AI services: Vision Studio, Language Studio, Content Safety Studio.
+  - AI applications in fraud detection, healthcare, and energy optimization.
+  - Hands-on experience with Copilot and Document Intelligence.
+
+- **Skills Developed:**
+  - AI model evaluation and deployment.
+  - Problem-solving through data analysis and intelligent automation.
+  - Research and case study analysis.
 
 ## Contact
-- **Name:** Your Name  
-- **Email:** your_email@example.com  
+- **Name:** Joe Hiller  
+- **Email:** [your_email@example.com](mailto:your_email@example.com)  
 - [GitHub Profile](https://github.com/yourusername)
-
----
-
-This README structure ensures it looks professional and provides clarity for anyone reviewing your portfolio. Let me know if you'd like help creating any of the folders or uploading files!
