@@ -40,7 +40,7 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 ---
 
 ### **Resources:**  
-[Resources]()  
+[Resources](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/Resources)  
 
 A curated list of resources, including:  
 - 2057 Michio Kaku - The Body (Ep. 1) link  
