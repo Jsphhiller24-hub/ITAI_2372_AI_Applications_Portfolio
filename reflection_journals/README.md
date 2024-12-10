@@ -1,4 +1,4 @@
-Azure AI 900 Certification Exam Practice Lab Reflection Journals
+**Azure AI 900 Certification Exam Practice Lab Reflection Journals
 
 Gained key insights and reflections from a comprehensive practice lab series on Azure AI Services, designed to prepare professionals for the Azure AI 900 Certification exam:
 
