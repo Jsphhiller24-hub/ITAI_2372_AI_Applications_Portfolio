@@ -57,11 +57,13 @@ A curated list of resources, including:
 - Hands-on experience with Microsoft Copilot.  
 
 ### **Skills Developed:**  
-- AI model evaluation and deployment.  
-- Problem-solving through data analysis and intelligent automation.  
-- Research and case study analysis.  
+- AI model evaluation and resource deployment in Azure  
+- Problem-solving through data analysis and intelligent automation  
+- Research and case study analysis  
+- AI Solution Design  
+- AI Needs Assessment and Feasibility Analysis  
 
----
+ 
 
 ## Contact  
 
