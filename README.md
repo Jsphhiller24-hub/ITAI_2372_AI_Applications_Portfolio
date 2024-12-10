@@ -1,43 +1,65 @@
-# ITAI 2372 AI Applications Portfolio
+# ITAI 2372: AI Applications Portfolio  
 
-## Overview
-This repository showcases my coursework from the **ITAI 2372 AI Applications** course, including labs, projects, and case studies. It highlights my preparation for the **Azure AI 900 Certification** and demonstrates my ability to apply AI tools to real-world scenarios.
+## Overview  
+This repository features my coursework from the **ITAI 2372: AI Applications** course, showcasing practice lab reflection journals, projects, and case study assignments. The practice lab reflection journals document my preparation for the **Azure AI 900 Certification** exam and highlight my ability to leverage AI tools to solve real-world challenges.  
 
-## Contents
-- **Azure AI Labs:** [Link to the folder](Azure_AI_Labs)  
-  Reflections and insights from a 5-part lab series exploring Azure AI services:
-  1. **Lab 1:** Navigating Content Safety Studio and Azure AI services.
-  2. **Lab 2:** Analyzing images with Vision Studio.
-  3. **Lab 3:** Analyzing text with Language Studio.
-  4. **Lab 4:** Extracting data using Document Intelligence.
-  5. **Lab 5:** Exploring AI Copilot and its applications.
+## Contents  
 
-- **Case Studies:** [Link to the folder](Case_Studies)  
-  - **AI Fraud Detection Case Study:** Strategies for fraud detection using AI tools.
-  - **Analysis of *2057 Michio Kaku - The Body (Ep. 1):** AI's impact on healthcare.
+### **Azure AI 900 Certification Exam Practice Lab Reflection Journals:**  
+[Link to the folder](Azure_AI_Practice_Lab_Reflection_Journals)  
 
-- **NASA Space Mission AI Project:** [Link to the folder](NASA_Project)  
-  **Efficient Power Distribution through AI and Smart Grid Optimization**  
-  - Designed an AI-powered solution for NASA's energy distribution challenges.
+Gain key insights and reflections from a comprehensive 5-part practice lab series on **Azure AI Services**, designed to prepare professionals for the **Azure AI 900 Certification** exam:  
 
-- **Resources:** [Link to the folder](Resources)  
-  A curated list of resources, including:
-  - Azure AI documentation
-  - Python libraries and tools
-  - Relevant research papers and articles
+1. **Lab 1:** Navigating Content Safety Studio and Exploring Azure AI Services  
+2. **Lab 2:** Analyzing Images with Vision Studio  
+3. **Lab 3:** Analyzing Text with Language Studio  
+4. **Lab 4:** Extracting Insights with Document Intelligence  
+5. **Lab 5:** Exploring the Applications of AI Copilot  
 
-## Key Highlights
-- **Tools and Concepts Mastered:**
-  - Azure AI services: Vision Studio, Language Studio, Content Safety Studio.
-  - AI applications in fraud detection, healthcare, and energy optimization.
-  - Hands-on experience with Copilot and Document Intelligence.
+---
 
-- **Skills Developed:**
-  - AI model evaluation and deployment.
-  - Problem-solving through data analysis and intelligent automation.
-  - Research and case study analysis.
+### **Case Study and Paper Assignments:**  
+[Link to the folder](Case_Studies)  
 
-## Contact
-- **Name:** Joe Hiller  
-- **Email:** [your_email@example.com](mailto:your_email@example.com)  
-- [GitHub Profile](https://github.com/yourusername)
+- **AI Fraud Detection Case Study:** Strategies for fraud detection using AI tools.  
+- **Analysis of *2057 Michio Kaku - The Body (Ep. 1):* AI's Impact on Healthcare.  
+
+---
+
+### **NASA Space Mission AI Project:**  
+[Link to the folder](NASA_Project)  
+
+**Efficient Power Distribution through AI and Smart Grid Optimization**  
+- Designed an AI-powered solution addressing NASA's energy distribution challenges.  
+
+---
+
+### **Resources:**  
+[Link to the folder](Resources)  
+
+A curated list of resources, including:  
+- Azure AI practice lab links  
+- Relevant research sources  
+
+---
+
+## Key Highlights  
+
+### **Tools and Concepts Mastered:**  
+- Azure AI services: Vision Studio, Language Studio, Content Safety Studio, Document Intelligence, and Copilot.  
+- AI applications in fraud detection, healthcare, and energy optimization.  
+- Hands-on experience with AI Copilot.  
+
+### **Skills Developed:**  
+- AI model evaluation and deployment.  
+- Problem-solving through data analysis and intelligent automation.  
+- Research and case study analysis.  
+
+---
+
+## Contact  
+
+- **Name:** Joseph Hiller  
+- **Email:** [w212814130@student.hccs.edu](mailto:w212814130@student.hccs.edu)  
+- [GitHub Profile](https://github.com/yourusername)  
+
