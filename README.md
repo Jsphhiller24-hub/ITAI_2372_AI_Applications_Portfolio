@@ -61,5 +61,4 @@ A curated list of resources, including:
 
 - **Name:** Joseph Hiller  
 - **Email:** [w212814130@student.hccs.edu](mailto:w212814130@student.hccs.edu)  
-- [GitHub Profile](https://github.com/yourusername)  
-
+- [GitHub Profile](https://github.com/Jsphhiller24-hub)  
