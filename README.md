@@ -32,7 +32,7 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 ---
 
 ### **NASA Space Mission AI Project:**  
-[Link to the folder](NASA_Project)  
+[Nasa Space Mission Project]([NASA_Project](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/NASA_Space_Mission_AI_Project%3A))  
 
 **Efficient Power Distribution through AI and Smart Grid Optimization**  
 - Designed an AI-powered solution addressing NASA's energy distribution challenges.  
