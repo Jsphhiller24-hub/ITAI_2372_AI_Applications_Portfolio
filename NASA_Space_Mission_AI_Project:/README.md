@@ -1,4 +1,5 @@
 ## Nasa Space Mission AI Project
 
 
-### **AI in Fraud Detection Case Study**  
+### **Efficient Power Distribution through AI and Smart Grid Optimization**  
+
