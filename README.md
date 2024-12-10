@@ -10,7 +10,8 @@ The practice lab reflection journals detail my preparation for the **Azure AI 90
 ## Contents  
 
 ### **Azure AI 900 Certification Exam Practice Lab Reflection Journals**  
-[Link to the folder]([Azure_AI_Practice_Lab_Reflection_Journals](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/reflection_journals))  
+[Reflection Journals](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/reflection_journals)
+
 
 Gained key insights and reflections from a comprehensive practice lab series on **Azure AI Services**, designed to prepare professionals for the **Azure AI 900 Certification** exam:  
 
