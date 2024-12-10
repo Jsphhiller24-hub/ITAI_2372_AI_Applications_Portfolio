@@ -27,7 +27,7 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 [Link to the folder](Case_Studies)  
 
 - **AI in Fraud Detection Case Study:** Strategies for fraud detection using AI tools.  
-- **Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.  
+- Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.  
 
 ---
 
