@@ -27,7 +27,9 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 [Case Study and Paper Assignments](https://github.com/Jsphhiller24-hub/ITAI_2372_AI_Applications_Portfolio/tree/main/case_study_and_papers)  
 
  
-- Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.  
+- Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.
+- AI in Fraud Detection Case Study 
+  
 
 ---
 
