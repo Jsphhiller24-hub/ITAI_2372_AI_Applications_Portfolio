@@ -1,1 +1,1 @@
-### Curated List of Resources:
+### Curated List of Resources
