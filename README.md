@@ -28,7 +28,8 @@ Gained key insights and reflections from a comprehensive practice lab series on 
 
  
 - Analysis of "2057 Michio Kaku - The Body (Ep. 1):" and AI's Impact on Healthcare.
-- AI in Fraud Detection Case Study 
+- AI in Fraud Detection Case Study
+- In Depth Case Study of Choice
   
 
 ---
